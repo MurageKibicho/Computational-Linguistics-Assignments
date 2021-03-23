@@ -1,0 +1,144 @@
+\documentclass[a4paper,12pt]{article}
+
+\begin{document}
+
+\title{Pset2A}
+\author{Murage Kibicho\thanks{Ling 227}}
+\date{\today}
+\maketitle
+
+\newpage
+\pagenumbering{arabic}
+
+\section*{Question 1: }
+\subsection*{a. }
+Proof by Contradiction.$ $
+We know that $Y\subseteq Z$ therefore, we can define Z as the union of elements in the set Y, and its difference with Z. That is
+$$Z = Y \cup (Z\setminus Y)$$
+We know from the axioms that $P(\cal E) = $ $1$. Therefore, we can assume for the set Z, $$P(Z) = 1$$
+Therefore, 
+$$P(Z) = P(Y) \cup P(Z\setminus Y)$$ It can be seen that if $P(Y) > P(Z)$ then the axiom that the total probability of an event space equals 1 does not hold. This is a contradiction. Therefore we can conlude that,$$P(Y)\leq P(Z)$$
+\subsection*{b. }
+Proof by Induction.$ $
+By definition, we know that $P(X|Z) = \frac{P(X\cap Z)}{P(Z)}$. From the previous question, we also know that $P(X)\leq P(Z)$ since $X\subseteq Z$. Therefore it can be seen that $P(X\cap Z) \leq P(Z)$. Since Z is the total event space, we can see that $$0< P(Z)\leq 1$$ and as a result
+$$0 < P(X\cap Z) \leq P(Z)\leq 1$$. Therefore$$0 < P(X|Z) = \frac{P(X\cap Z)}{P(Z)} \leq 1$$
+\subsection*{c. }
+Proof by Induction.$ $
+From the axioms, we know that $P(\cal E) = $ $1$ and $P(\cal E \cup \emptyset) = P(\cal E) + P(\emptyset)$. 
+Therefore, it can be seen that, $$1 = 1 +  P(\emptyset)$$ We can conclude that $$P(\emptyset) = 0$$
+\subsection*{d. }
+Proof by Induction.$ $
+From the axioms, we know that $P(\cal E) = $ $1$. Also, from the question, we note that $\bar{X} = \cal E - X$. Therefore$$P(\bar{X}) = P(\cal E - X)$$From the axioms, we know that $P(\cal E - X) = P(\cal E) - P(X)$. Therefore,
+$$P(\bar{X}) = P(\cal E) - P(X)$$ This equals $$P(\bar{X}) = 1 - P(X)$$ and by associativity $$P(X) = 1 - P(\bar{X})$$
+\subsection*{e. }
+Proof by Induction.$ $
+From the axioms, we know that $$P(\textrm{singing and rainy$|$rainy}) = \frac{\textrm{P(singing and rainy and rainy)}}{P(rainy)}$$
+We also know that $\textrm{(rainy and rainy) = rainy} $
+
+Therefore,
+$$P(\textrm{singing and rainy$|$rainy}) =\frac{\textrm{P(singing and rainy)}}{P(rainy)} $$
+
+and finally, $$P(\textrm{singing and rainy$|$rainy}) =P(\textrm{singing $|$ rainy})$$
+
+\subsection*{f. }
+Proof by Induction.$ $
+From the axioms, we know that $$P(X | Y) = \frac{P(X \:and\:Y)}{P(Y)}$$ 
+Therefore, $$P(\bar{X} | Y) = \frac{P(\bar{X} \:and\:Y)}{P(Y)}$$ 
+$$ = \frac{P(\bar{X})\:and\:P(Y)}{P(Y)}$$ 
+
+also $P(\bar{X}) = P(1 - X)$ . Therefore
+$$P(\bar{X} | Y) = \frac{P(1 - X) \:and\:P(Y)}{P(Y)}$$
+By distributivity
+$$ P(\bar{X} | Y)  = \frac{(P(1)\:and\:P(Y)) - (P(X)\:and\:P(Y))}{P(Y)}$$
+$$  = \frac{P(Y) - P(X)\:and\:P(Y)}{P(Y)}$$
+$$  =\frac{P(Y)}{P(Y)} - \frac{P(X)\:and\:P(Y)}{P(Y)}$$
+$$  = 1 - \frac{P(X)\:and\:P(Y)}{P(Y)}$$
+Therefore
+$$P(\bar{X} | Y) = 1- P(X | Y) $$
+and finally,
+$$P(X| Y) = 1- P(\bar{X} | Y) $$
+\subsection*{g. }
+$$= \frac{P(X \cap Y \cap Y)}{P(Y)} +\frac{P(X \cap \bar{Y} \cap \bar{Y})}{P(\bar{Y})} \cap \frac{P(\bar{Z} \cap X \cap \bar{Z})}{P(X)} $$ 
+
+$$ =\frac{P(X \cap Y)}{P(Y)} + \frac{P(X \cap \bar{Y})}{P(\bar{Y})} \cap \frac{P(\bar{Z} \cap X)}{P(X)}$$
+$$ = P(X | Y) + P(X | \bar{Y}) \cdot P(\bar{Z} | X)$$
+$$ = P(X | Y) + P(\bar{Z} | \bar{Y})$$
+
+\subsection*{h. }
+From the axioms we know that $$P(A,B) = P(A) \cdot P(B)$$
+Therefore
+$$P(X|Y,Z) =  \frac{P(X \:and\:Y)}{P(Y)} \cdot Z$$
+Since $P(X|Y) = 0$ then
+$$P(X|Y,Z) =  0 \cdot Z$$
+$$ = 0$$
+\section*{Question 2: }
+\subsection*{a. }
+\begin{equation}
+\textrm{For all situations }z
+ \sum^{}_{n=0} p (X = cry\textsubscript{n} | Y =z) = 1 
+\end{equation}
+\subsection*{b. }
+    \begin{table}[h!]
+    \begin{center}
+    \caption{Joint Probability Table}
+    \label{Table 3}
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    p(cry, situation) & Predator! & Timber! & I need help! & TOTAL\\
+    \hline
+    bwa & 0 & 0& 0.64 & 0.64\\
+    \hline
+    bwee & 0 & 0& 0.08 & 0.08\\
+    \hline
+    kiki & 0.2 & 0& 0.08 & 0.28\\
+    \hline
+    TOTAL & 0.2 & 0& 0.8 & 1\\
+    \hline
+    \end{tabular}
+    \end{center}
+    \end{table}
+ \subsection*{c. }
+ \subsubsection*{1.}
+ \begin{center}
+  $\texttt{p(Predator! | kiki)} $
+ \end{center}
+ \subsubsection*{2.}
+ \begin{center}
+  $\frac{\texttt{p(kiki and Predator!)}}{\texttt{p(kiki)}}$
+ \end{center}
+ \subsubsection*{3.}
+ \begin{center}
+ $= \frac{0.2}{0.28} = 0.7143$
+ \end{center}
+ \subsubsection*{4.}
+ \begin{center}
+ $\frac{\texttt{p(kiki|Predator!)}\cdot \texttt{p(Predator!)}}{
+ \texttt{p(Predator!|kiki)}\cdot \texttt{p(kiki)} + 
+ \texttt{p(Predator!|bwa)}\cdot \texttt{p(bwa)} + 
+  \texttt{p(Predator!!|bwee)}\cdot \texttt{p(bwee)}}$
+ \end{center}
+ \subsubsection*{5.}
+ \begin{center}
+ $= \frac{1 \cdot 0.2}{1 \cdot 0.28 + 0 \cdot 0.064 + 0 \cdot 0.08} = 0.7143$ 
+  \end{center}
+  \section*{Question 3: }
+  Absolute discounting proof
+\begin{equation}
+\textrm{For all situations }F^{P}_{c} 
+ \sum^{F^{P}_{c}}_{i=0} \frac{(F-F^{c}_{0}) \delta }{F^{c}_{0}- C\textsubscript{c}}
+\end{equation}
+Taking $\alpha = \frac{(F-F^{c}_{0}) \delta }{F^{c}_{0}- C\textsubscript{c}}$, then we can express this sum as $$\sum \alpha\textsubscript{i} = \alpha\textsubscript{0} + \alpha\textsubscript{1} + ... + \alpha\textsubscript{n}$$
+\begin{equation}
+\textrm{For all situations } \beta =\frac{r - \delta }{C\textsubscript{c}}
+\end{equation}
+$$\sum \beta\textsubscript{i} =\beta\textsubscript{0} + \beta\textsubscript{1} + ... + \beta\textsubscript{n} $$
+
+From the definition of absolute discounting, it can be seen that $$\sum \alpha\textsubscript{i} + \sum \beta\textsubscript{i} = \alpha\textsubscript{0} + \alpha\textsubscript{1} + ... + \alpha\textsubscript{n} + \beta\textsubscript{0} + \beta\textsubscript{1} + ... + \beta\textsubscript{n}$$
+Therefore $$\sum \alpha\textsubscript{i} + \sum \beta\textsubscript{i} = 1$$
+
+Linear Discounting proof
+
+By the definition of linear discounting, it can be seen that$$\textrm{for } \chi =\frac{(1 - \alpha)r}{C\textsubscript{c}},\: \delta = \frac{\alpha}{F^{c}_{0}}$$ where $\alpha$ is a constant between 0 and 1. Then 
+$$\sum \chi + \sum \delta = \chi\textsubscript{0} + \chi\textsubscript{1} + ... + \chi\textsubscript{n} + \delta\textsubscript{0} + \delta\textsubscript{1} + ... + \delta\textsubscript{n} = 1$$
+
+\end{document}
