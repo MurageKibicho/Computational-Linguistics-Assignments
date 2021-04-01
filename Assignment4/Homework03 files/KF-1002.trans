@@ -1,0 +1,994 @@
+# AX #
+# EY B AX L #
+# AX B AW TD #
+# AX B AH V #
+# AX K AO R DX IX NG #
+# AX K AW N TD #
+# AX K R AO S #
+# AE KD TD #
+# AE K SH AX N #
+# AE KD T IH V AX DX IY #
+# AE K CH AX W AX L #
+# AE K CH AX W AX L IY #
+# AX D IH SH AX N #
+# AX D IH SH AX N AX L #
+# AE D M IH N IX S T R EY SH AX N #
+# AE F T AXR #
+# AE F T AXR N UW N #
+# AX G EH N #
+# AX G EH N S TD #
+# EY JH #
+# AX G OW #
+# AX G R IY M AX N TD #
+# AX HH EH DD #
+# EY DD #
+# EH R #
+# AO L #
+# AO L M OW S TD #
+# AX L OW N #
+# AX L AO NG #
+# AO L R EH DX IY #
+# AO L S OW #
+# AO L DH OW #
+# AO L W EY Z #
+# AE M #
+# AX M EH R AX K AX N #
+# AX M AH NG #
+# AX M AW N TD #
+# AE N #
+# AX N AE L AX S AX S #
+# AE N DD #
+# AE N Y UW AX L #
+# AX N AH DH AXR #
+# AE N S AXR #
+# EH N IY #
+# EH N IY W AH N #
+# EH N IY TH IH NG #
+# AX P EH R AX N TD L IY #
+# AX P IH R #
+# AX P L AY DD #
+# AX P R OW CH #
+# AA R #
+# EH R IY AX #
+# AA R M #
+# AA R M IY #
+# AXR AW N DD #
+# AA R TD #
+# AE Z #
+# AE S KD #
+# AX S OW S IY EY SH AX N #
+# AE TD #
+# AX T AE KD #
+# AX T EH M PD TD #
+# AX T EH N SH AX N #
+# AE DX AX T UW DD #
+# AA DX IY AX N S #
+# AX TH AO R AX DX IY #
+# AX V EY L AX B AX L #
+# AE V AXR IX JH #
+# AX W EY #
+# B AE KD #
+# B AE DD #
+# B AE L AX N S #
+# B AO L #
+# B EY S #
+# B EY S IX KD #
+# B EY S AX S #
+# B IY #
+# B Y UW DX AX F AX L #
+# B IX K EY M #
+# B IX K AH Z #
+# B IX K AH M #
+# B EH DD #
+# B AX N #
+# B IX F AO R #
+# B IX G AE N #
+# B IX G IH N IX NG #
+# B IX HH AY N DD #
+# B IY IX NG #
+# B IX L IY V #
+# B IX L OW #
+# B EH S TD #
+# B EH DX AXR #
+# B IX T W IY N #
+# B IX AA N DD #
+# B IH GD #
+# B IH L #
+# B IH TD #
+# B L AE KD #
+# B L AH DD #
+# B L UW #
+# B AO R DD #
+# B AA DX IY #
+# B UH KD #
+# B AO R N #
+# B OW TH #
+# B OY #
+# B R IH JH #
+# B R IH NG #
+# B R IH DX IX SH #
+# B R AO TD #
+# B R AW N #
+# B IH L D IX NG #
+# B IH L TD #
+# B IH Z N AX S #
+# B AH TD #
+# B AY #
+# K AO L #
+# K EY M #
+# K AE N #
+# K AE N TD #
+# K AE N AA TD #
+# K AA R #
+# K EH R #
+# K EY S #
+# K AE DX AX L #
+# K AA TD #
+# K AA Z #
+# S EH N TD #
+# S EH N AXR #
+# S EH N T R AX L #
+# S EH N CH AXR IY #
+# S ER T AX N #
+# CH AE N S #
+# CH EY N JH #
+# K AE R IX KD T AXR #
+# CH AA R JH #
+# CH IY F #
+# CH AY L DD #
+# CH IH L D R AX N #
+# CH OY S #
+# K R AY S TD #
+# K R IH S CH AX N #
+# CH ER CH #
+# S IH DX IY #
+# S IH V AX L #
+# K L EY M #
+# K L AE S #
+# K L EY #
+# K L IH R #
+# K L OW S #
+# K L OW Z DD #
+# K L AH BD #
+# K OW L DD #
+# K AA L AX JH #
+# K AH L AXR #
+# K AH M #
+# K AH M Z #
+# K AH M IX NG #
+# K AX M IH SH AX N #
+# K AX M IH DX IY #
+# K AA M AX N #
+# K AA M Y AX N AX S TD #
+# K AX M Y UW N AX DX IY #
+# K AH M P AX N IY #
+# K AX M P L IY TD #
+# K AA M P L EH K S #
+# K AX N S ER N #
+# K AX N S ER N DD #
+# K AX N D IH SH AX N #
+# K AA N F AXR AX N S #
+# K AA NG G R AX S #
+# K AX N S IH DX AXR #
+# K AX N S IH DX AXR AX B AX L #
+# K AX N S T R AH K SH AX N #
+# K AX N T IH N Y UW #
+# K AX N T IH N Y UW DD #
+# K AX N T R OW L #
+# K AO R N AXR #
+# K AO R P AXR EY SH AX N #
+# K AO R #
+# K AA S TD #
+# K UH DD #
+# K UH D AX N TD #
+# K AW N S AX L #
+# K AH N T R IY #
+# K AW N T IY #
+# K AH P AX L #
+# K AO R S #
+# K AO R TD #
+# K AH V AXR DD #
+# K ER AX N TD #
+# K AH TD #
+# D EY L IY #
+# D AE N S #
+# D AA R KD #
+# D AE DX AX #
+# D EY TD #
+# D EY #
+# D EY #
+# D EH DD #
+# D IY L #
+# D EH TH #
+# D IX S AY DX IX DD #
+# D IX S IH ZH AX N #
+# D IY PD #
+# D IX F EH N S #
+# D IX G R IY #
+# D IX M AE N DD #
+# D EH M AX K R AE DX IX KD #
+# D IX P AA R T M AX N TD #
+# D IX Z AY N #
+# D IX Z AY N DD #
+# D IX S P AY TD #
+# D AX T ER M AX N #
+# D IX V EH L AX P M AX N TD #
+# D IH DD #
+# D IH D AX N TD #
+# D IH F AXR AX N S #
+# D IH F AXR AX N TD #
+# D IH F AX K AX L TD #
+# D IH N AXR #
+# D AXR EH KD TD #
+# D AXR EH K SH AX N #
+# D AXR EH KD TD L IY #
+# D AXR EH KD T AXR #
+# D IX S K AH SH AX N #
+# D IH S T AX N S #
+# D IH S T R IX KD TD #
+# D IX V IH ZH AX N #
+# D UW #
+# D AA KD T AXR #
+# D AH Z #
+# D UW IX NG #
+# D OW N TD #
+# D AH N #
+# D AO R #
+# D AW TD #
+# D AW N #
+# D R AY V #
+# D R AA PD TD #
+# D UW #
+# D UH R IX NG #
+# IY CH #
+# ER L IY #
+# ER TH #
+# IY Z AX L IY #
+# IY S TD #
+# IY Z IY #
+# EH K AX N AA M IX KD #
+# EH JH AX K EY SH AX N #
+# IX F EH KD TD #
+# IX F EH KD T IX V #
+# EH F AXR TD #
+# EY TD #
+# AY DH AXR #
+# EH L S #
+# EH N DD #
+# EH N AXR JH IY #
+# IH NG G L AX N DD #
+# IH NG G L IX SH #
+# IX N AH F #
+# IX N T AY AXR #
+# IY K W AX L #
+# IX K W IH P M AX N TD #
+# IY V AX N #
+# IY V N IX NG #
+# EH V AXR #
+# EH V AXR IY #
+# EH V R IY W AH N #
+# EH V R IY TH IH NG #
+# EH V AX D AX N S #
+# IX G Z AE KD TD L IY #
+# IX G Z AE M P AX L #
+# IX K S EH PD TD #
+# EH G Z IH S T AX N S #
+# IX K S P EH KD TD #
+# IX K S P IH R IY AX N S #
+# IX K S T EH N TD #
+# AY #
+# F EY S #
+# F AE KD TD #
+# F EY TH #
+# F AA L #
+# F AE M AX L IY #
+# F AA R #
+# F AA R M #
+# F AA DH AXR #
+# F IH R #
+# F EH D R AX L #
+# F IY DD #
+# F IY L #
+# F IY L IX NG #
+# F IY TD #
+# F EH L #
+# F EH L TD #
+# F Y UW #
+# F IY L DD #
+# F AY TD #
+# F IH G Y AXR #
+# F IH L M #
+# F AY N AX L #
+# F AY N AX L IY #
+# F AY N DD #
+# F AY N #
+# F AY AXR #
+# F ER M #
+# F ER S TD #
+# F IH S K AX L #
+# F AY V #
+# F L AO R #
+# F AA L OW #
+# F AA L OW IX NG #
+# F UW DD #
+# F AO R #
+# F AO R S #
+# F AO R AX N #
+# F AO R M #
+# F AO R M AXR #
+# F AO R W AXR DD #
+# F AW N DD #
+# F AO R #
+# F R IY #
+# F R IY DX AX M #
+# F R EH N CH #
+# F R IY K W AX N TD L IY #
+# F R EH N DD #
+# F AXR M #
+# F R AH N TD #
+# F UH L #
+# F AH NG K SH AX N #
+# F ER DH AXR #
+# F Y UW CH AXR #
+# G EY M #
+# G AE S #
+# G EY V #
+# JH EH N AXR AX L #
+# JH EH N AXR AX L IY #
+# JH AO R JH #
+# G EH TD #
+# G EH DX IX NG #
+# G ER L #
+# G IH V #
+# G IH V AX N #
+# G IH V IX NG #
+# G L AE S #
+# G OW #
+# G AA DD #
+# G OW IX NG #
+# G AO N #
+# G UH DD #
+# G AA TD #
+# G AH V AXR M AX N TD #
+# G R EY TD #
+# G R EY DX AXR #
+# G R IY N #
+# G R AW N DD #
+# G R UW PD #
+# G R OW IX NG #
+# G R OW TH #
+# G AH N #
+# HH AE DD #
+# HH AE D AX N TD #
+# HH EH R #
+# HH AE F #
+# HH AO L #
+# HH AE N DD #
+# HH AE P IY #
+# HH AA R DD #
+# HH AA R D L IY #
+# HH AE Z #
+# HH AE V #
+# HH AE V IX NG #
+# HH IY #
+# HH IY Z #
+# HH EH DD #
+# HH EH L TH #
+# HH IH R #
+# HH ER DD #
+# HH AA R TD #
+# HH IY TD #
+# HH EH V IY #
+# HH EH L DD #
+# HH EH L #
+# HH EH L PD #
+# HH AXR #
+# HH IH R #
+# HH AXR S EH L F #
+# HH AY #
+# HH AY AXR #
+# HH AY L IY #
+# HH IH M #
+# HH IX M S EH L F #
+# HH IH Z #
+# HH IH S T AXR IY #
+# HH IH TD #
+# HH OW L DD #
+# HH OW M #
+# HH OW PD #
+# HH AO R S #
+# HH AA S P IH DX AX L #
+# HH AA TD #
+# HH OW T EH L #
+# AW AXR #
+# HH AW S #
+# HH AW #
+# HH AW EH V AXR #
+# HH Y UW M AX N #
+# HH AH N D R AX DD #
+# HH AH Z B AX N DD #
+# AY #
+# AY M #
+# AY V #
+# AY D IY AX #
+# IH F #
+# IH M AX JH #
+# IX M IY DX IY AX TD L IY #
+# IX M P AO R T AX N S #
+# IX M P AO R T AX N TD #
+# IH N #
+# IX N K L UW DD #
+# IX N K L UW DX AX DD #
+# IX N K L UW DX IX NG #
+# IH N K AH M #
+# IH N K R IY S #
+# IX N D IY DD #
+# IH N D AX V IH JH AX W AX L #
+# IX N D AH S T R IY AX L #
+# IH N D AX S T R IY #
+# IH N F L UW AX N S #
+# IH N F AXR M EY SH AX N #
+# IH N S AY DD #
+# IX N S T EH DD #
+# IH N T R AX S TD #
+# IH N T R AX S T AX DD #
+# IH N T AXR N AE SH AX N AX L #
+# IH N T UW #
+# IX N V AA L V DD #
+# IH Z #
+# AY L AX N DD #
+# IH Z AX N TD #
+# IH SH UW #
+# IH TD #
+# IH TS #
+# IH TS #
+# IX TS EH L F #
+# JH AE KD #
+# JH EY M Z #
+# JH AE Z #
+# JH AA BD #
+# JH AA N #
+# JH UW N #
+# JH AH S TD #
+# JH AH S T AX S #
+# K IY PD #
+# K AE PD TD #
+# K AY N DD #
+# K IH CH AX N #
+# N UW #
+# N OW #
+# N AA L AX JH #
+# N OW N #
+# L AE KD #
+# L AE N DD #
+# L AE NG G W AX JH #
+# L AA R JH #
+# L AE S TD #
+# L EY TD #
+# L EY DX AXR #
+# L AE DX AXR #
+# L AA #
+# L EY #
+# L EH DD #
+# L IY DX AXR SH IH PD #
+# L ER N DD #
+# L IY S TD #
+# L IY V #
+# L EH DD #
+# L EH F TD #
+# L EH NG KD TH #
+# L EH S #
+# L EH TD #
+# L EH DX AXR #
+# L EH V AX L #
+# L AY F #
+# L AY TD #
+# L AY KD #
+# L AY K L IY #
+# L IH M AX DX AX DD #
+# L AY N #
+# L IH S TD #
+# L IH DX AXR AX CH AXR #
+# L IH DX AX L #
+# L AY V #
+# L AY V DD #
+# L IH V IX NG #
+# L OW K AX L #
+# L AO NG #
+# L AO NG G AXR #
+# L UH KD #
+# L UH K IX NG #
+# L AO R DD #
+# L AO S TD #
+# L AA TD #
+# L AH V #
+# L OW #
+# L OW AXR #
+# M AX SH IY N #
+# M EY DD #
+# M EY N #
+# M EY JH AXR #
+# M EY KD #
+# M EY K IX NG #
+# M AE N #
+# M AE N AX JH M AX N TD #
+# M AE N AXR #
+# M EH N IY #
+# M AA R CH #
+# M AA R K AX TD #
+# M AE R IX JH #
+# M AE R IY DD #
+# M AE S #
+# M AX T IH R IY AX L #
+# M AE DX AXR #
+# M EY #
+# M EY B IY #
+# M IY #
+# M IY N #
+# M IY N IX NG #
+# M IY N Z #
+# M EH N TD #
+# M EH ZH AXR #
+# M EH DX AX K AX L #
+# M IY TD #
+# M IY DX IX NG #
+# M EH M B AXR #
+# M EH N #
+# M IH R L IY #
+# M EH TD #
+# M EH TH AX DD #
+# M IH DX AX L #
+# M AY TD #
+# M AY KD #
+# M IH L AX T EH R IY #
+# M IH L Y AX N #
+# M AY N DD #
+# M IH S #
+# M AA DX AXR N #
+# M OW M AX N TD #
+# M AH N IY #
+# M AH N TH #
+# M AO R AX L #
+# M AO R #
+# M AO R N IX NG #
+# M OW S TD #
+# M AH DH AXR #
+# M AW TH #
+# M UW V #
+# M UW V M AX N TD #
+# M UW V IX NG #
+# M IH S T AXR #
+# M IH S IX Z #
+# M AH CH #
+# M Y UW Z IX KD #
+# M AH S TD #
+# M AY #
+# M AY S EH L F #
+# N EY M #
+# N EY SH AX N #
+# N AE SH AX N AX L #
+# N AE CH AXR AX L #
+# N EY CH AXR #
+# N IH R #
+# N IH R L IY #
+# N EH S AX S EH R IY #
+# N IY DD #
+# N IY D Z #
+# N IY G R OW #
+# N AY DH AXR #
+# N EH V AXR #
+# N UW #
+# N UW Z #
+# N EH K S TD #
+# N AY TD #
+# N OW #
+# N AH N #
+# N AO R #
+# N AO R M AX L #
+# N AO R TH #
+# N AA TD #
+# N OW TD #
+# N OW DX AX DD #
+# N AH TH IX NG #
+# N AW #
+# N UW K L IY AXR #
+# N AH M B AXR #
+# AX B JH EH KD T IX V #
+# AA B V IY AX S #
+# AH V #
+# AO F #
+# AO F AX S #
+# AO F AX S AXR #
+# AO F AX N #
+# OW #
+# OY L #
+# OW L DD #
+# OW L D AXR #
+# AA N #
+# W AH N S #
+# W AH N #
+# OW N L IY #
+# OW P AX N #
+# AA P AXR EY SH AX N #
+# AX P IH N Y AX N #
+# AA P AXR T UW N AX DX IY #
+# AO R #
+# AO R DX AXR #
+# AO R G AX N AX Z EY SH AX N #
+# AXR IH JH AX N AX L #
+# AH DH AXR #
+# AA R #
+# AW TD #
+# AW TS AY DD #
+# OW V AXR #
+# OW N #
+# P EY DD #
+# P EY P AXR #
+# P AA R KD #
+# P AA R TD #
+# P AXR T IH K Y AX L AXR #
+# P AA R DX IY #
+# P AE S TD #
+# P AE DX AXR N #
+# P EY #
+# P IY S #
+# P IY P AX L #
+# P ER #
+# P AXR F AO R M AX N S #
+# P AXR HH AE P S #
+# P IH R IY AX DD #
+# P ER S AX N #
+# P ER S AX N AX L #
+# F IH Z IX K AX L #
+# P IH K CH AXR #
+# P IY S #
+# P L EY S #
+# P L AE N #
+# P L EY N #
+# P L AE N TD #
+# P L EY #
+# P L EY IX NG #
+# P OW AX TD #
+# P OY N TD #
+# P AX L IY S #
+# P AA L AX S IY #
+# P AX L IH DX AX K AX L #
+# P UW L #
+# P UH R #
+# P AA P Y AX L AXR #
+# P AA P Y AX L EY SH AX N #
+# P AX Z IH SH AX N #
+# P AA S AX B AX L #
+# P AW AXR #
+# P R AE KD T AX S #
+# P AXR Z EH N TD #
+# P R EH Z AX D EH N TD #
+# P R EH S #
+# P R EH SH AXR #
+# P R IH DX IY #
+# P R AY S #
+# P R AY M EH R IY #
+# P R IH N S AX P AX L #
+# P R IH N S AX P AX L #
+# P R AY V AX TD #
+# P R AA B L AX M #
+# P R AA S EH S #
+# P R AX D AH K SH AX N #
+# P R AX F EH SH AX N AX L #
+# P R OW G R AE M #
+# P R AA G R EH S #
+# P R AA JH EH KD TD #
+# P R AA P AXR #
+# P R AA P AXR DX IY #
+# P R AX V AY DD #
+# P R AX V AY DX AX DD #
+# P AH B L IX KD #
+# P ER P AX S #
+# P UH TD #
+# K W AA L AX DX IY #
+# K W EH S CH AX N #
+# K W AY TD #
+# R EY S #
+# R EY DX IY EY SH AX N #
+# R EY DX IY OW #
+# R EY Z DD #
+# R AE N #
+# R EY N JH #
+# R EY TD #
+# R AE DH AXR #
+# R IY CH #
+# R IY AE K SH AX N #
+# R EH DD #
+# R EH DX IX NG #
+# R EH DX IY #
+# R IY L #
+# R IH L IY #
+# R IY Z AX N #
+# R IY S AX N TD #
+# R AX K AO R DD #
+# R EH DD #
+# R IX L EY DX IX DD #
+# R IX L IH JH AX N #
+# R IX L IH JH AX S #
+# R IX M EY N #
+# R IX M EH M B AXR #
+# R IX P AO R TD #
+# R IY S AXR CH #
+# R IX S P EH KD TD #
+# R IY S P AA N S AX B IH L AX DX IY #
+# R EH S TD #
+# R IX Z AH L TD #
+# R IX T ER N #
+# R IX T ER N DD #
+# R AY TD #
+# R AY Z #
+# R IH V AXR #
+# R OW DD #
+# R OW L #
+# R UW M #
+# R AH N #
+# R AH N IX NG #
+# S EH DD #
+# S EY M #
+# S AE TD #
+# S AO #
+# S EY #
+# S EY IX NG #
+# S EH Z #
+# S IY N #
+# S K UW L #
+# S AY AX N S #
+# S IY #
+# S IY Z AX N #
+# S EH K AX N DD #
+# S EH K R AX T EH R IY #
+# S EH K SH AX N #
+# S IX K Y UH R AX DX IY #
+# S IY #
+# S IY M #
+# S IY N #
+# S EH N S #
+# S EH N TD #
+# S IH R IY Z #
+# S IH R IY AX S #
+# S ER V #
+# S ER V AX S #
+# S EH TD #
+# S EH V AX N #
+# S EH V R AX L #
+# SH AE L #
+# SH EH R #
+# SH IY #
+# SH AO R TD #
+# SH AA TD #
+# SH UH DD #
+# SH OW #
+# SH OW N #
+# S AY DD #
+# S AY N #
+# S IH M AX L AXR #
+# S IH M P AX L #
+# S IH M P L IY #
+# S IH N S #
+# S IH NG G AX L #
+# S ER #
+# S IH DX IX NG #
+# S IH CH UW EY SH AX N #
+# S IH K S #
+# S AY Z #
+# S M AO L #
+# S OW #
+# S OW SH AX L #
+# S AX S AY AX DX IY #
+# S AH M #
+# S AH M W AH N #
+# S AH M TH IX NG #
+# S AH M T AY M Z #
+# S AH M HH W AH TD #
+# S AH N #
+# S UW N #
+# S AO R TD #
+# S AW N DD #
+# S AO R S #
+# S AW TH #
+# S AH DH AXR N #
+# S OW V IY AX TD #
+# S P EY S #
+# S P IY KD #
+# S P EH SH AX L #
+# S P AX S IH F IX KD #
+# S P EH N TD #
+# S P IH R AX TD #
+# S P R IH NG #
+# S K W EH R #
+# S EY N TD #
+# S T AE F #
+# S T EY JH #
+# S T AE N DD #
+# S T AE N D AXR DD #
+# S T AE N D IX NG #
+# S T AA R TD #
+# S T EY TD #
+# S T EY T M AX N TD #
+# S T EY SH AX N #
+# S T AE DX AX S #
+# S T EY #
+# S T EH PD #
+# S T IH L #
+# S T AA KD #
+# S T UH DD #
+# S T AA PD #
+# S T AA PD TD #
+# S T AO R IY #
+# S T R EY TD #
+# S T R IY TD #
+# S T R EH NG KD TH #
+# S T R EH S #
+# S T R AO NG #
+# S T R AH K CH AXR #
+# S T UW D AX N TD #
+# S T AH DX IY #
+# S T AY L #
+# S AH B JH IX KD TD #
+# S AX K S EH S #
+# S AX K S EH S F AX L #
+# S AH CH #
+# S AH M AXR #
+# S AH N #
+# S AH N D EY #
+# S AX P L AY #
+# S AX P AO R TD #
+# S AX P OW Z #
+# SH UH R #
+# S ER F AX S #
+# S IH S T AX M #
+# T EY B AX L #
+# T EY KD #
+# T EY K AX N #
+# T EY K IX NG #
+# T AO KD #
+# T AO K IX NG #
+# T AE K S #
+# T EH K N IX K AX L #
+# T IY TH #
+# T EH L #
+# T EH M P R AX CH AXR #
+# T EH N #
+# T EH S TD #
+# DH AE N #
+# DH AE TD #
+# DH AH #
+# DH EH R #
+# DH EH M #
+# DH EH M S EH L V Z #
+# DH EH N #
+# TH IH R IY #
+# DH EH R #
+# DH EH R F AO R #
+# DH IY Z #
+# DH EY #
+# TH IH N #
+# TH IH NG #
+# TH IH NG KD #
+# TH IH NG K IX NG #
+# TH ER DD #
+# DH IH S #
+# T AA M AX S #
+# DH OW Z #
+# DH OW #
+# TH AO TD #
+# TH AW Z AX N DD #
+# TH R IY #
+# TH R UW #
+# TH R UW AW TD #
+# DH AH S #
+# T AY M #
+# T AX #
+# T AX D EY #
+# T AX G EH DH AXR #
+# T OW L DD #
+# T UW #
+# T UH KD #
+# T AA PD #
+# T OW DX AX L #
+# T AO R DD #
+# T AW N #
+# T R EY DD #
+# T R AX D IH SH AX N #
+# T R EY N IX NG #
+# T R IY T M AX N TD #
+# T R AY AX L #
+# T R AY DD #
+# T R AH B AX L #
+# T R UW #
+# T R UW TH #
+# T R AY #
+# T R AY IX NG #
+# T ER N #
+# T UW #
+# T AY PD #
+# AH N D AXR #
+# AH N D AXR S T AE N DD #
+# AH N D AXR S T AE N D IX NG #
+# Y UW N Y AX N #
+# Y UW N AX TD #
+# Y UW N AY DX AX DD #
+# Y UW N AX V ER S AX DX IY #
+# AX N L EH S #
+# AX N T IH L #
+# AH PD #
+# AX P AA N #
+# AH S #
+# Y UW S #
+# Y UW Z DD #
+# Y UW ZH AX W AX L #
+# Y UW ZH AX L IY #
+# V AE L Y UW #
+# V EH R IY AX S #
+# V EH R IY #
+# V Y UW #
+# V IH Z AX TD #
+# V OY S #
+# V AA L Y UW M #
+# W EY TD #
+# W EY DX IX NG #
+# W AO KD #
+# W AO L #
+# W AA N TD #
+# W AO R #
+# W AA Z #
+# W AA Z AX N TD #
+# W AO DX AXR #
+# W EY #
+# W IY #
+# W IY KD #
+# W EY TD #
+# W EH L #
+# W EH N TD #
+# W AXR #
+# W EH S TD #
+# W EH S T AXR N #
+# HH W AH TD #
+# W AH DX EH V AXR #
+# W EH N #
+# W EH R #
+# W EH DH AXR #
+# W IH CH #
+# W AY L #
+# W AY TD #
+# HH UW #
+# HH OW L #
+# HH UW M #
+# HH UW Z #
+# W AY #
+# W AY DD #
+# W AY F #
+# W AX L #
+# W IH L Y AX M #
+# W IH N D OW #
+# W IH SH #
+# W IH DH #
+# W IX DH IH N #
+# W IX TH AW TD #
+# W UH M AX N #
+# W IH M AX N #
+# W OW N TD #
+# W ER DD #
+# W ER KD #
+# W ER K IX NG #
+# W ER L DD #
+# W ER TH #
+# W UH DD #
+# W UH D AX N TD #
+# R AY TD #
+# R AY DX IX NG #
+# R IH T AX N #
+# R AO NG #
+# R OW TD #
+# Y IH R #
+# Y EH S #
+# Y EH TD #
+# Y AO R KD #
+# Y UW #
+# Y AH NG #
+# Y AO R #
