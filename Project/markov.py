@@ -186,22 +186,20 @@ elif txt == "regency_england":
 
 elif txt == "finance":
     data_list = []
-	url = "https://drive.google.com/file/d/1s5YjfWSzFV_hy6pFQiSDnvzHYN_dvgpx/view?usp=sharing"
-	response = urllib2.urlopen(url)
-    #with open("analyst_ratings_processed.csv") as f:
-    reader = csv.reader(response)
-    for item in reader:
-        #print(item)
-        item = str(item[1])
-        item = re.sub(r'\d', '', item)
-        item = re.sub(r'\$', '', item)
-        item = re.sub(r'\#', '', item)
-        item = re.sub(r'\%', '', item)
-        item = re.sub(r'\d', '', item)
-        item = re.sub(r'-', '', item)
-        item = re.sub(r'[^\w\s]', '', item)
-        item = re.sub(r'title', '', item)
-        data_list.append(item)
+    with open("analyst_ratings_processed.csv") as f:
+        reader = csv.reader(f)
+        for item in reader:
+            #print(item)
+            item = str(item[1])
+            item = re.sub(r'\d', '', item)
+            item = re.sub(r'\$', '', item)
+            item = re.sub(r'\#', '', item)
+            item = re.sub(r'\%', '', item)
+            item = re.sub(r'\d', '', item)
+            item = re.sub(r'-', '', item)
+            item = re.sub(r'[^\w\s]', '', item)
+            item = re.sub(r'title', '', item)
+            data_list.append(item)
 
 elif txt == "medicine":
     data_list = []
