@@ -6,3 +6,5 @@ The datasets used were from the following sources:
 - regency england: https://www.gutenberg.org/ebooks/search/?query=jane+austen&submit_search=Search
 - sci-fi: https://www.kaggle.com/gjbroughton/start-trek-scripts
 - jokes: https://github.com/taivop/joke-dataset
+
+A description of our project can be found here: https://docs.google.com/presentation/d/1lSjyJ3U3JZhV8kGry-sw5Xr3H-UT-Dba6OL0u4tMP6I/edit#slide=id.gd66081e1fb_0_196
