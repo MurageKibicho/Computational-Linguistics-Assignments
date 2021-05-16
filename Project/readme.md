@@ -8,21 +8,30 @@ The datasets used were from the following sources:
 - jokes: https://github.com/taivop/joke-dataset
 
 Dependencies:
-csv
-json
-random
-numpy 
-os
-pandas
-sys
-matplotlib.pyplot
-seaborn
-re
-pdb
-nltk.corpus 
-timeit 
-collections 
-itertools
+- csv
+- json
+- random
+- numpy 
+- os
+- pandas
+- sys
+- matplotlib
+- seaborn
+- re
+- pdb
+- nltk.corpus 
+- timeit 
+- collections 
+- itertools
+- import csv
+- xml.etree.ElementTree
+- xml.sax
+- codecs
+- time
+- bz2
+- subprocess
+- mwparserfromhell
+- gc
 
 
 How to run:
