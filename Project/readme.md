@@ -7,4 +7,27 @@ The datasets used were from the following sources:
 - sci-fi: https://www.kaggle.com/gjbroughton/start-trek-scripts
 - jokes: https://github.com/taivop/joke-dataset
 
+Dependencies:
+csv
+json
+random
+numpy 
+os
+pandas
+sys
+matplotlib.pyplot
+seaborn
+re
+pdb
+nltk.corpus 
+timeit 
+collections 
+itertools
+
+
+How to run:
+1. Download the financial data set
+2. Install all necessary dependencies
+3. From the command line, run python markov.py
+
 A description of our project can be found here: https://docs.google.com/presentation/d/1lSjyJ3U3JZhV8kGry-sw5Xr3H-UT-Dba6OL0u4tMP6I/edit#slide=id.gd66081e1fb_0_196
